@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "filesystem.h": "c",
+        "stdio.h": "c",
+        "time.h": "c",
+        "malloc.h": "c",
+        "math.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "typeinfo": "c",
+        "stat.h": "c",
+        "inttypes.h": "c",
+        "unistd.h": "c"
+    }
+}
